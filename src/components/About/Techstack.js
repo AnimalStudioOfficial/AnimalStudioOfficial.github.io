@@ -17,7 +17,6 @@ import {
   SiFirebase, 
   SiQiskit, 
   SiScikitlearn,
-  SiGnubash
 } from "react-icons/si";
 
 
