@@ -1,7 +1,7 @@
 {
   "name": "mywebsite",
   "version": "1.0.0",
-  "description": "",
+  "description": "my website",
   "main": "index.js",
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
